@@ -1,2 +1,5 @@
 https://towardsdatascience.com/another-twitter-sentiment-analysis-with-python-part-11-cnn-word2vec-41f5e28eda74
 https://kipalog.com/posts/Gioi-thieu-tien-xu-ly-trong-xu-ly-ngon-ngu-tu-nhien
+https://colab.research.google.com/github/ngxbac/aivivn_phanloaisacthaibinhluan/blob/master/baseline_lgbm_tfidf.ipynb#scrollTo=ojmynVfZtFRE
+https://colab.research.google.com/github/ngxbac/aivivn_phanloaisacthaibinhluan/blob/master/stacking.ipynb
+https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e?fbclid=IwAR28YI6JX3LT7uRezI-wJEWEYrtTSy8E9dyyel3tMW-vjfVaZ733AoXQryw
